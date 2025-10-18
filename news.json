@@ -8,13 +8,13 @@
     },
     {
       "title": "<span style='color:#ff6600;'>Introduction UPDATE B</span>",
-      "content": "Version 4.47 will serve as a live runtime test, gradually exploring best practices for handling a larger Auction House database load on the server. For those who want to help out, a few test patches will be available on this page. they will work with the current server version.",
+      "content": "Version 4.47 will serve as a live runtime test, gradually exploring best practices for handling a larger Auction House database load on the server. For those who want to help out, a few test patches will be available on this page. They will work with the current server version.",
       "date": "2025-10-18",
       "type": "dev post"
     },
-        {
-      "title": "DOWNLOAD TEST UPDATE B - Manually",
-      "content": "https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip",
+    {
+      "title": "<span style='color:#ff6600;'>DOWNLOAD TEST UPDATE B - Manually</span>",
+      "content": "Test the new client and market house with client B <a href='https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip' style='color:#00ccff; text-decoration:underline;'>Click here to download EndlessOnline0447B.zip</a>",
       "date": "2025-10-18",
       "type": "TEST CLIENT"
     },
@@ -26,4 +26,3 @@
     }
   ]
 }
-
