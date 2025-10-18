@@ -1,1 +1,17 @@
+{
+  "news": [
+    {
+      "title": "<span style='color:#ff6600;'>Welcome to the Endless Online Patcher!</span>",
+      "content": "<span style='color:#00ccff;'>This patcher was created for <b>RS Members</b> and friends!</span>",
+      "date": "2025-10-18",
+      "type": "info"
+    },
+    {
+      "title": "<span style='color:#ff3333;'>🎃 Halloween Event Is Active! 🎃</span>",
+      "content": "<span style='color:#ffaa00;'>Join the spooky fun and earn exclusive event rewards!<br>Explore haunted maps, battle eerie monsters, and collect rare Halloween items while the event lasts.</span>",
+      "date": "2025-10-18",
+      "type": "event"
+    }
+  ]
+}
 
