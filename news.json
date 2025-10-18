@@ -7,6 +7,18 @@
       "type": "info"
     },
     {
+      "title": "<span style='color:#ff6600;'>Introduction UPDATE B</span>",
+      "content": "Version 4.47 will serve as a live runtime test, gradually exploring best practices for handling a larger Auction House database load on the server. For those who want to help out, a few test patches will be available on this page. they will work with the current server version.",
+      "date": "2025-10-18",
+      "type": "dev post"
+    },
+        {
+      "title": "DOWNLOAD TEST UPDATE B - Manually",
+      "content": "https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip",
+      "date": "2025-10-18",
+      "type": "TEST CLIENT"
+    },
+    {
       "title": "<span style='color:#ff3333;'>🎃 Halloween Event Is Active! 🎃</span>",
       "content": "<span style='color:#ffaa00;'>Join the spooky fun and earn exclusive event rewards!<br>Explore haunted maps, battle eerie monsters, and collect rare Halloween items while the event lasts.</span>",
       "date": "2025-10-18",
