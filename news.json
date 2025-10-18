@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Dev Post 0.4.47",
+      "content": "Endless Online 0.4.47 : Dev Post\nAuction House Dev\nVersion 4.47 serves as a live runtime test focusing on Auction House scalability. Players can help by listing items; transactions are disabled for now. Event: Halloween in Aeven returns with daily invasions (Oct 14–Nov 2, 2025) featuring new rewards like Reaper doll and Bat Hat.\nDownloads:\n- EndlessOnline0447B.zip (~76,8mb) (80.586.827 bytes) — <a href='https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip' style='color:#ffcc66;'>https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip</a>\nDev Post URL: <a href='https://www.endless-online.com/devpost/0447.html' style='color:#ffcc66;'>https://www.endless-online.com/devpost/0447.html</a>",
+      "date": "2025-10-04",
+      "type": "dev post"
+    },
+    {
+      "title": "Dev Post 0.4.46",
+      "content": "Endless Online 0.4.46 : Dev Post\nDetails\nSmaller content changes and quick fixes following 4.45. Introduces NPC chat channel system for coordinated ambient dialogues. Adds beginner quest packs and medium-level quests. Overcharged Weekend event runs Sept 26–27.\nDev Post URL: <a href='https://www.endless-online.com/devpost/0446.html' style='color:#ffcc66;'>https://www.endless-online.com/devpost/0446.html</a>",
+      "date": "2025-09-20",
+      "type": "dev post"
+    },
+    {
+      "title": "Dev Post 0.4.45",
+      "content": "Endless Online 0.4.45 : Dev Post\nItem System Upgrades\nFocus on item system direction and upgrades. Adjusts drop logic and introduces safeguards to reduce burnout, laying groundwork for tiered item progression. Explains instancing, 'real' bound states, and item state taxonomy.\nDev Post URL: <a href='https://www.endless-online.com/devpost/0445.html' style='color:#ffcc66;'>https://www.endless-online.com/devpost/0445.html</a>",
+      "date": "2025-08-18",
+      "type": "dev post"
+    },
+    {
       "title": "<span style='color:#ff6600;'>Welcome to the Endless Online Patcher!</span>",
       "content": "<span style='color:#00ccff;'>This patcher was created for <b>RS Members</b> and friends!</span>",
       "date": "2025-10-18",
@@ -8,21 +26,9 @@
     },
     {
       "title": "<span style='color:#ff6600;'>Introduction UPDATE B</span>",
-      "content": "Version 4.47 will serve as a live runtime test, gradually exploring best practices for handling a larger Auction House database load on the server. For those who want to help out, a few test patches will be available on this page. They will work with the current server version.",
+      "content": "Version 4.47 will serve as a live runtime test, gradually exploring best practices for handling a larger Auction House database load on the server. For those who want to help out, a few test patches will be available on this page. they will work with the current server version.",
       "date": "2025-10-18",
       "type": "dev post"
-    },
-    {
-      "title": "<span style='color:#ff6600;'>DOWNLOAD TEST UPDATE B - Manually</span>",
-      "content": "Test the new client and auction house with client B. Download link https://www.endless-online.com/client/0_04/EndlessOnline0447B.zip ",
-      "date": "2025-10-18",
-      "type": "TEST CLIENT"
-    },
-    {
-      "title": "<span style='color:#ff3333;'>🎃 Halloween Event Is Active! 🎃</span>",
-      "content": "<span style='color:#ffaa00;'>Join the spooky fun and earn exclusive event rewards!<br>Explore haunted maps, battle eerie monsters, and collect rare Halloween items while the event lasts.</span>",
-      "date": "2025-10-18",
-      "type": "event"
     }
   ]
 }
