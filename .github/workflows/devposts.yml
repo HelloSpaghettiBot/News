@@ -3,8 +3,7 @@ name: Sync Endless Online Dev Posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"  # every 2 hours
-
+    - cron: "0 2 */2 * *"
 permissions:
   contents: write
 
